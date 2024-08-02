@@ -18,11 +18,11 @@ def plot_flight_paths(flight_paths):
         ax.plot(x_coords, y_coords, color=colors[used_colors % len(colors)], marker='o', label=f'Flight {used_colors + 1}')
         used_colors += 1
         
-        # Create a LineString object for the path
+        # Creating a LineString object for the path
         path_line = LineString(flight_path)
         all_paths.append(path_line)
         
-        # Check for intersections with previous paths
+        # Checking for intersections with previous paths
         for previous_path in all_paths[:-1]:
             if path_line.intersects(previous_path):
                 print(f"Intersection found between Flight {used_colors} and another flight.")
