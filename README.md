@@ -1,3 +1,12 @@
+Common Resources Used:
+# STACKOVERFLOW
+# PYTHON DOCUMENTATION
+# Documentation: Matplotlib Documentation
+# Documentation: Shapely Documentation
+# W3 Schools
+# GeeksForGeeks
+
+
 1)No_accident_flight_plots:
 Approach:
 #First we need to understand the constraints and requirements, such as the number of flights and the format of coordinates.
@@ -24,3 +33,4 @@ Used python functions
 3)Kill All And Return Home
 # RESOURCES :
 # PYTHON - Language 
+Used python and its functions
