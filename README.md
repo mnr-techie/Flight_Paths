@@ -16,4 +16,11 @@ Approach:
   For geometric operations to check for intersections
 # VSCode
 
-2) 
+2) My Money My Shares:
+# RESOURCES :
+# PYTHON - Language 
+Used python functions
+
+3)Kill All And Return Home
+# RESOURCES :
+# PYTHON - Language 
